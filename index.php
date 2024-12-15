@@ -55,8 +55,14 @@
 
           <label for="branch">Branch</label>
           <select name="branch" id="branch">
-            <option value="CSE">CSE</option>
+            <option value="CSE">ISE</option>
+            <option value="ECE">CSE</option>
+            <option value="ECE">AIML</option>
             <option value="ECE">ECE</option>
+            <option value="ECE">EEE</option>
+            <option value="ECE">CVE</option>
+            <option value="ECE">ME</option>
+            <option value="ECE">CE</option>
           </select>
           <br />
 
@@ -69,10 +75,13 @@
 
           <label for="subject">Subject</label>
           <select name="subject" id="subject">
-            <option value="OOPS">Object Oriented Programming</option>
-            <option value="DSA">Data Structures and Algorithms</option>
-            <option value="MI">Microprocessors</option>
-            <option value="AS">Applied Science</option>
+            <option value="DBMS">DBMS</option>
+            <option value="JAVA">JAVA</option>
+            <option value="ADS">ADS</option>
+            <option value="HCI">HCI</option>
+            <option value="RM">RM</option>
+            <option value="PME">PME</option>
+            
           </select>
           <br />
         </div>
