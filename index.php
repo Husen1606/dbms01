@@ -55,14 +55,14 @@
 
           <label for="branch">Branch</label>
           <select name="branch" id="branch">
-            <option value="CSE">ISE</option>
-            <option value="ECE">CSE</option>
-            <option value="ECE">AIML</option>
+            <option value="ISE">ISE</option>
+            <option value="CSE">CSE</option>
+            <option value="AIML">AIML</option>
             <option value="ECE">ECE</option>
-            <option value="ECE">EEE</option>
-            <option value="ECE">CVE</option>
-            <option value="ECE">ME</option>
-            <option value="ECE">CE</option>
+            <option value="EEE">EEE</option>
+            <option value="CVE">CVE</option>
+            <option value="ME">ME</option>
+            <option value="CE">CE</option>
           </select>
           <br />
 
